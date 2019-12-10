@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>Error Budget Entries</name>
+        <source_table>x_snc_error_budget_error_budget_entry</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 19:06:46</sys_created_on>
+        <sys_id>744f83401b014010cae7a829bc4bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Error Budget Entries</sys_name>
+        <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+        <sys_update_name>sys_search_source_744f83401b014010cae7a829bc4bcb40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 19:06:46</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=744f83401b014010cae7a829bc4bcb40"/>
+</record_update>

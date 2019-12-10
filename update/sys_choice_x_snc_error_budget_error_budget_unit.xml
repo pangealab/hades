@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="unit" table="x_snc_error_budget_error_budget" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minutes</label>
+            <language>en</language>
+            <name>x_snc_error_budget_error_budget</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 16:35:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8026739c1b814010b91e4087bc4bcbfb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 16:35:18</sys_updated_on>
+            <value>minutes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hours</label>
+            <language>en</language>
+            <name>x_snc_error_budget_error_budget</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 16:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8226739c1b814010b91e4087bc4bcb33</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 16:35:24</sys_updated_on>
+            <value>hours</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Days</label>
+            <language>en</language>
+            <name>x_snc_error_budget_error_budget</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 16:35:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1436b39c1b814010b91e4087bc4bcbf8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 16:35:31</sys_updated_on>
+            <value>days</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>unit</element>
+            <name>x_snc_error_budget_error_budget</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 16:35:12</sys_created_on>
+            <sys_id>9f438064db85cc10b66d55535e9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>unit</sys_name>
+            <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+            <sys_update_name>sys_choice_x_snc_error_budget_error_budget_unit</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 16:35:12</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

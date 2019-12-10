@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="duration" label="Duration" language="en" table="var__m_sys_hub_action_input_0a3e7f481bc10010b91e4087bc4bcbec">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>duration</element>
+            <help/>
+            <hint/>
+            <label>Duration</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_0a3e7f481bc10010b91e4087bc4bcbec</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>colin.obrien@snc</sys_created_by>
+            <sys_created_on>2019-11-06 22:31:56</sys_created_on>
+            <sys_id>ca3e7f481bc10010b91e4087bc4bcbf2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Duration</sys_name>
+            <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_0a3e7f481bc10010b91e4087bc4bcbec_duration_en</sys_update_name>
+            <sys_updated_by>colin.obrien@snc</sys_updated_by>
+            <sys_updated_on>2019-11-06 22:31:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

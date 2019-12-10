@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>convert_duration_to_integer</internal_name>
+        <label_cache>[{"name":"{{action.duration}}","label":"action➛Duration","type":"action","ref":""},{"name":"{{step[5c966ff3-d8c6-487b-a08d-54d4240e4aed].integer}}","label":"step➛Script step➛Integer","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>becd702cdb09cc10b66d55535e9619cd</latest_snapshot>
+        <master_snapshot>0a3e7f481bc10010b91e4087bc4bcbec</master_snapshot>
+        <name>Convert Duration to Integer</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>colin.obrien@snc</sys_created_by>
+        <sys_created_on>2019-11-06 22:25:40</sys_created_on>
+        <sys_id>1acc3bc41bc10010b91e4087bc4bcb6c</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>Convert Duration to Integer</sys_name>
+        <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_1acc3bc41bc10010b91e4087bc4bcb6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:48:14</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=1acc3bc41bc10010b91e4087bc4bcb6c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=1acc3bc41bc10010b91e4087bc4bcb6c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>1acc3bc41bc10010b91e4087bc4bcb6c</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>colin.obrien@snc</sys_created_by>
+        <sys_created_on>2019-11-06 22:26:14</sys_created_on>
+        <sys_id>eaec3b081bc10010b91e4087bc4bcbbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>colin.obrien@snc</sys_updated_by>
+        <sys_updated_on>2019-11-06 22:26:14</sys_updated_on>
+        <value/>
+        <variable display_value="">66ec3b081bc10010b91e4087bc4bcb68</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=1acc3bc41bc10010b91e4087bc4bcb6c"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>integer</field>
+        <id>1acc3bc41bc10010b91e4087bc4bcb6c</id>
+        <sys_created_by>colin.obrien@snc</sys_created_by>
+        <sys_created_on>2019-11-06 22:26:14</sys_created_on>
+        <sys_id>e2ec3b081bc10010b91e4087bc4bcbbb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>colin.obrien@snc</sys_updated_by>
+        <sys_updated_on>2019-11-06 22:31:55</sys_updated_on>
+        <table>var__m_sys_hub_action_output_1acc3bc41bc10010b91e4087bc4bcb6c</table>
+        <value>{{step[5c966ff3-d8c6-487b-a08d-54d4240e4aed].integer}}</value>
+    </sys_element_mapping>
+</record_update>

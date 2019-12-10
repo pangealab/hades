@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="INSERT_OR_UPDATE">
+        <breakdown display_value="App">c6e1dc9c539000108856ddeeff7b12e7</breakdown>
+        <facts_table>cmdb_ci_service_discovered</facts_table>
+        <field>x_snc_error_budget_devops_app.sys_id</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 18:23:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a3e3d93cdb050050b66d55535e961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c6e1dc9c539000108856ddeeff7b12e7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_a3e3d93cdb050050b66d55535e961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 18:23:12</sys_updated_on>
+    </pa_breakdown_mappings>
+</record_update>

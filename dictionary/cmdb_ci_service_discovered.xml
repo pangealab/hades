@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_service_auto" label="Application Service" max_length="40" name="cmdb_ci_service_discovered" sizeclass="3" type="collection">
+        <element label="DevOps App" max_length="32" name="x_snc_error_budget_devops_app" reference="sn_devops_app" type="reference"/>
+    </element>
+</database>

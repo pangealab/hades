@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>create_error_budget_entry</internal_name>
+        <label_cache>[{"name":"3efe2fb0-7e7e-4d42-a46a-a9667f364956.table_name","label":"7.2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"3efe2fb0-7e7e-4d42-a46a-a9667f364956.record","label":"7.2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"177e956f-a69a-4cc6-98df-04512920c163.Table","label":"7.1➛Error Budget Entry Table","reference":"x_snc_error_budget_error_budget_entry","reference_display":"Error Budget Entry","type":"table_name","base_type":"table_name"},{"name":"177e956f-a69a-4cc6-98df-04512920c163.Record","label":"7.1➛Error Budget Entry Record","reference":"x_snc_error_budget_error_budget_entry","reference_display":"Error Budget Entry","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.duration","label":"Trigger➛Outage Record➛Duration","reference":"","reference_display":"Duration","type":"glide_duration","base_type":"glide_duration","parent_table_name":"cmdb_ci_outage","column_name":"duration"},{"name":"64854e85-7a5e-48ba-aa8a-d46c940512e9.integer","label":"5➛Integer","type":"integer","base_type":"integer"},{"name":"310f630b-8c07-428b-8fa0-d8a7444595fd.Table","label":"3➛Error Budget Table","reference":"x_snc_error_budget_error_budget","reference_display":"Error Budget","type":"table_name","base_type":"table_name"},{"name":"310f630b-8c07-428b-8fa0-d8a7444595fd.Record","label":"3➛Error Budget Record","reference":"x_snc_error_budget_error_budget","reference_display":"Error Budget","type":"reference","base_type":"reference"},{"name":"13d9ae7c-a16f-407b-aa4a-6217c2098082.table_name","label":"6.1➛Error Budget Entry Table","reference":"x_snc_error_budget_error_budget_entry","reference_display":"Error Budget Entry","type":"table_name","base_type":"table_name"},{"name":"13d9ae7c-a16f-407b-aa4a-6217c2098082.record","label":"6.1➛Error Budget Entry Record","reference":"x_snc_error_budget_error_budget_entry","reference_display":"Error Budget Entry","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current","label":"Trigger➛Outage Record","reference":"cmdb_ci_outage","reference_display":"Outage","type":"reference","base_type":"reference"},{"name":"159a71e1-b1ef-4f0d-a758-fa0f8bdbdccd.Count","label":"4➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"159a71e1-b1ef-4f0d-a758-fa0f8bdbdccd.Table","label":"4➛Error Budget Entry Table","reference":"x_snc_error_budget_error_budget_entry","reference_display":"Error Budget Entry","type":"table_name","base_type":"table_name"},{"name":"159a71e1-b1ef-4f0d-a758-fa0f8bdbdccd.Records","label":"4➛Error Budget Entry Records","reference":"x_snc_error_budget_error_budget_entry","reference_display":"Error Budget Entry","type":"records","base_type":"records"},{"name":"Created or Updated_1.current.cmdb_ci","label":"Trigger➛Outage Record➛Configuration Item","reference":"cmdb_ci","reference_display":"Configuration Item","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci_outage","column_name":"cmdb_ci"},{"name":"ec7225e0-d4be-4f93-b739-d17d620312a9.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"ec7225e0-d4be-4f93-b739-d17d620312a9.Table","label":"1➛Error Budget Table","reference":"x_snc_error_budget_error_budget","reference_display":"Error Budget","type":"table_name","base_type":"table_name"},{"name":"ec7225e0-d4be-4f93-b739-d17d620312a9.Records","label":"1➛Error Budget Records","reference":"x_snc_error_budget_error_budget","reference_display":"Error Budget","type":"records","base_type":"records"}]</label_cache>
+        <master>true</master>
+        <name>Create Error Budget Entry</name>
+        <outputs/>
+        <parent_flow display_value="Create Error Budget Entry">ca0b74a8db09cc10b66d55535e96193a</parent_flow>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 21:54:04</sys_created_on>
+        <sys_id>852f706cdb09cc10b66d55535e961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Error Budget Entry</sys_name>
+        <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_852f706cdb09cc10b66d55535e961935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:54:04</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=852f706cdb09cc10b66d55535e961935"/>
+    <sys_variable_value action="delete_multiple" query="document_key=852f706cdb09cc10b66d55535e961935"/>
+</record_update>

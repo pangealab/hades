@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_plan">
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Convert Duration to Integer">1acc3bc41bc10010b91e4087bc4bcb6c</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"e23ebf481bc10010b91e4087bc4bcb8a","name":"plan"}}</plan>
+        <snapshot>becd702cdb09cc10b66d55535e9619cd</snapshot>
+        <sys_class_name>sys_hub_action_plan</sys_class_name>
+        <sys_created_by>colin.obrien@snc</sys_created_by>
+        <sys_created_on>2019-11-06 22:31:59</sys_created_on>
+        <sys_id>e23ebf481bc10010b91e4087bc4bcb8a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>1acc3bc41bc10010b91e4087bc4bcb6c</sys_name>
+        <sys_package display_value="DevOps" source="sn_devops">34cfa6f087302300f97abba826cb0b54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+        <sys_update_name>sys_hub_action_plan_e23ebf481bc10010b91e4087bc4bcb8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:48:14</sys_updated_on>
+    </sys_hub_action_plan>
+</record_update>

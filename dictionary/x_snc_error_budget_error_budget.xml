@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Error Budget" max_length="40" name="x_snc_error_budget_error_budget" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Budget" max_length="40" name="budget" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Application Service" max_length="32" name="business_application" reference="cmdb_ci_service_discovered" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Consumed" max_length="40" name="consumed" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Percent Remaining" max_length="40" name="percent_remaining" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Remaining" max_length="40" name="remaining" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Unit" max_length="40" name="unit" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Minutes" sequence="0" value="minutes"/>
+                <element inactive_on_update="false" label="Hours" sequence="1" value="hours"/>
+                <element inactive_on_update="false" label="Days" sequence="2" value="days"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="business_application"/>
+        </index>
+    </element>
+</database>

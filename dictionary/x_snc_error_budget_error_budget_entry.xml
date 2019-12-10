@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Error Budget Entry" max_length="40" name="x_snc_error_budget_error_budget_entry" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Consumed" max_length="40" name="consumed" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Error Budget" max_length="32" name="error_budget" reference="x_snc_error_budget_error_budget" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Outage" max_length="32" name="outage" reference="cmdb_ci_outage" type="reference"/>
+        <index name="index">
+            <element name="outage"/>
+        </index>
+        <index name="index2">
+            <element name="error_budget"/>
+        </index>
+    </element>
+</database>

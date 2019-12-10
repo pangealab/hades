@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <name>Error Budgeting</name>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 19:05:03</sys_created_on>
+        <sys_id>5bde8b8c1bcd0010cae7a829bc4bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Error Budgeting</sys_name>
+        <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+        <sys_update_name>sys_aw_master_config_5bde8b8c1bcd0010cae7a829bc4bcb9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 19:05:03</sys_updated_on>
+    </sys_aw_master_config>
+</record_update>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Create Error Budget Entry">ca0b74a8db09cc10b66d55535e96193a</flow>
+        <order>6.1</order>
+        <parent_ui_id>b5941ebe-5133-48f7-b201-a6347155a125</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 21:53:54</sys_created_on>
+        <sys_id>221ffc2cdb09cc10b66d55535e9619e1</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+        <sys_update_name>sys_hub_action_instance_221ffc2cdb09cc10b66d55535e9619e1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:54:47</sys_updated_on>
+        <ui_id>13d9ae7c-a16f-407b-aa4a-6217c2098082</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=221ffc2cdb09cc10b66d55535e9619e1"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>221ffc2cdb09cc10b66d55535e9619e1</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 21:54:03</sys_created_on>
+        <sys_id>742f306cdb09cc10b66d55535e9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:54:03</sys_updated_on>
+        <value>x_snc_error_budget_error_budget_entry</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>221ffc2cdb09cc10b66d55535e9619e1</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 21:53:54</sys_created_on>
+        <sys_id>a21ffc2cdb09cc10b66d55535e9619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:53:54</sys_updated_on>
+        <value>x_snc_error_budget_error_budget_entry</value>
+        <variable display_value="">0352fc8cc3c632002841b63b12d3ae12</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=221ffc2cdb09cc10b66d55535e9619e1"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>221ffc2cdb09cc10b66d55535e9619e1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 21:53:54</sys_created_on>
+        <sys_id>6e1ffc2cdb09cc10b66d55535e9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:53:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_02f0b88cc3c632002841b63b12d3aeff</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>221ffc2cdb09cc10b66d55535e9619e1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 21:54:03</sys_created_on>
+        <sys_id>302f306cdb09cc10b66d55535e9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:54:03</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>221ffc2cdb09cc10b66d55535e9619e1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 21:53:54</sys_created_on>
+        <sys_id>221ffc2cdb09cc10b66d55535e9619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:53:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_02f0b88cc3c632002841b63b12d3aeff</table>
+        <value>error_budget={{310f630b-8c07-428b-8fa0-d8a7444595fd.Record}}^outage={{Created or Updated_1.current}}^consumed={{64854e85-7a5e-48ba-aa8a-d46c940512e9.integer}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>221ffc2cdb09cc10b66d55535e9619e1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 21:54:03</sys_created_on>
+        <sys_id>f02f306cdb09cc10b66d55535e9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 21:54:03</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>error_budget={{310f630b-8c07-428b-8fa0-d8a7444595fd.Record}}^outage={{Created or Updated_1.current}}^consumed={{64854e85-7a5e-48ba-aa8a-d46c940512e9.integer}}</value>
+    </sys_element_mapping>
+</record_update>

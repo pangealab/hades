@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_error_budget_error_budget_entry" version="2" view="business_applications">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_error_budget_error_budget_entry" element="NULL" name="x_snc_error_budget_error_budget_entry" parent="NULL" relationship="NULL" sys_domain="global" view="e9b23aa4871003008a4a578c87cb0ba6">bd2808141b050010b91e4087bc4bcb71</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>colin.obrien@snc</sys_created_by>
+            <sys_created_on>2019-11-06 23:15:21</sys_created_on>
+            <sys_id>7d2808141b050010b91e4087bc4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>colin.obrien@snc</sys_updated_by>
+            <sys_updated_on>2019-11-06 23:15:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>consumed</element>
+            <list_id display_value="x_snc_error_budget_error_budget_entry" element="NULL" name="x_snc_error_budget_error_budget_entry" parent="NULL" relationship="NULL" sys_domain="global" view="e9b23aa4871003008a4a578c87cb0ba6">bd2808141b050010b91e4087bc4bcb71</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>colin.obrien@snc</sys_created_by>
+            <sys_created_on>2019-11-06 23:15:21</sys_created_on>
+            <sys_id>462808141b050010b91e4087bc4bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>colin.obrien@snc</sys_updated_by>
+            <sys_updated_on>2019-11-06 23:15:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>error_budget</element>
+            <list_id display_value="x_snc_error_budget_error_budget_entry" element="NULL" name="x_snc_error_budget_error_budget_entry" parent="NULL" relationship="NULL" sys_domain="global" view="e9b23aa4871003008a4a578c87cb0ba6">bd2808141b050010b91e4087bc4bcb71</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>colin.obrien@snc</sys_created_by>
+            <sys_created_on>2019-11-06 23:15:21</sys_created_on>
+            <sys_id>4a2808141b050010b91e4087bc4bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>colin.obrien@snc</sys_updated_by>
+            <sys_updated_on>2019-11-06 23:15:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>outage</element>
+            <list_id display_value="x_snc_error_budget_error_budget_entry" element="NULL" name="x_snc_error_budget_error_budget_entry" parent="NULL" relationship="NULL" sys_domain="global" view="e9b23aa4871003008a4a578c87cb0ba6">bd2808141b050010b91e4087bc4bcb71</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>colin.obrien@snc</sys_created_by>
+            <sys_created_on>2019-11-06 23:15:21</sys_created_on>
+            <sys_id>4e2808141b050010b91e4087bc4bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>colin.obrien@snc</sys_updated_by>
+            <sys_updated_on>2019-11-06 23:15:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_error_budget_error_budget_entry</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>colin.obrien@snc</sys_created_by>
+            <sys_created_on>2019-11-06 23:15:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd2808141b050010b91e4087bc4bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_error_budget_error_budget_entry</sys_name>
+            <sys_package display_value="Error Budgeting" source="x_snc_error_budget">0ac80b441bcd0010cae7a829bc4bcbe8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Error Budgeting">0ac80b441bcd0010cae7a829bc4bcbe8</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_error_budget_error_budget_entry_business_applications</sys_update_name>
+            <sys_updated_by>colin.obrien@snc</sys_updated_by>
+            <sys_updated_on>2019-11-06 23:15:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Business Applications" name="business_applications">e9b23aa4871003008a4a578c87cb0ba6</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
